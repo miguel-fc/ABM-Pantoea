@@ -23,7 +23,7 @@ def init_simulation() -> None:
 def run_simulation(run_id : int):
 	global workspace
 	workspace.command('set efficiency 0.37')
-#	workspace.command('set Min/steptime 2')
+	#workspace.command('set Min/steptime 2')
 	workspace.command('set energy_maintenance_pa 0.0015')
 	workspace.command('set rep_pa 20')
 	workspace.command('set max-time-viability_pa 83')
