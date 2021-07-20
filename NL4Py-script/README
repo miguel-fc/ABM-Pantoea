@@ -2,6 +2,6 @@ The file:
 
 replicas.py
 
-is the script used to run the ABM code with NL4PY in CADES (https://cades.ornl.gov/).
+is the script used to run the ABM code with NL4Py 0.9.0 in CADES (https://cades.ornl.gov/).
 
 The simulations were run in multiple CPUs (up to 32) of the same processor
