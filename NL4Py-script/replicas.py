@@ -11,7 +11,7 @@ try:
 except:
 	print('ERROR: Please provide the number of concurrent model runs required as a commandline argument.')
 
-MODEL_PATH = './test14-pantoea.nlogo'
+MODEL_PATH = './Pantoea-ABM-final.nlogo'
 REPORTERS = ['ticks','count turtles']
 
 
